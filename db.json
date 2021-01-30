@@ -1,0 +1,346 @@
+{
+  "movies": [
+    {
+      "title": "Dog Day Afternoon",
+      "description": "1975 / movie",
+      "imdbID": "tt0072890",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODExZmE2ZWItYTIzOC00MzI1LTgyNTktMDBhNmFhY2Y4OTQ3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0072890",
+      "isExist": false,
+      "id": 10
+    },
+    {
+      "title": "Her",
+      "description": "2013 / movie",
+      "imdbID": "tt1798709",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt1798709",
+      "isExist": false,
+      "id": 11
+    },
+    {
+      "title": "In Her Shoes",
+      "description": "2005 / movie",
+      "imdbID": "tt0388125",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTA2Njc3NTUzMDFeQTJeQWpwZ15BbWU4MDgyNTM0MjAy._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0388125",
+      "isExist": false,
+      "id": 14
+    },
+    {
+      "title": "The Cook, the Thief, His Wife & Her Lover",
+      "description": "1989 / movie",
+      "imdbID": "tt0097108",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTlmM2U5YmQtMTcxYy00MzgyLTkyMDItZjY5Yjc3OTJkMTAzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0097108",
+      "isExist": false,
+      "id": 15
+    },
+    {
+      "title": "Over Her Dead Body",
+      "description": "2008 / movie",
+      "imdbID": "tt0785007",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTI3NTgyNjg3NV5BMl5BanBnXkFtZTcwMzg2MzU1MQ@@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0785007",
+      "isExist": false,
+      "id": 16
+    },
+    {
+      "title": "Away from Her",
+      "description": "2006 / movie",
+      "imdbID": "tt0491747",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjExMzgyOTUyNF5BMl5BanBnXkFtZTcwNTUzMDg0MQ@@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0491747",
+      "isExist": false,
+      "id": 17
+    },
+    {
+      "title": "The Life Before Her Eyes",
+      "description": "2007 / movie",
+      "imdbID": "tt0815178",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTM1MzAxNzgyM15BMl5BanBnXkFtZTcwNjAyOTM2MQ@@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0815178",
+      "isExist": false,
+      "id": 18
+    },
+    {
+      "title": "Life Is Beautiful",
+      "description": "1997 / movie",
+      "imdbID": "tt0118799",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0118799",
+      "isExist": false,
+      "id": 19
+    },
+    {
+      "title": "Life of Pi",
+      "description": "2012 / movie",
+      "imdbID": "tt0454876",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0454876",
+      "isExist": false,
+      "id": 20
+    },
+    {
+      "title": "It's a Wonderful Life",
+      "description": "1946 / movie",
+      "imdbID": "tt0038650",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0038650",
+      "isExist": false,
+      "id": 21
+    },
+    {
+      "title": "A Bug's Life",
+      "description": "1998 / movie",
+      "imdbID": "tt0120623",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0120623",
+      "isExist": false,
+      "id": 22
+    },
+    {
+      "title": "Crazy, Stupid, Love.",
+      "description": "2011 / movie",
+      "imdbID": "tt1570728",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTg2MjkwMTM0NF5BMl5BanBnXkFtZTcwMzc4NDg2NQ@@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt1570728",
+      "isExist": false,
+      "id": 23
+    },
+    {
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "description": "1964 / movie",
+      "imdbID": "tt0057012",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0057012",
+      "isExist": false,
+      "id": 24
+    },
+    {
+      "title": "Beyond Belief: Fact or Fiction",
+      "description": "1997–2002 / series",
+      "imdbID": "tt0138956",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGY2MmQ5OWUtM2MwYS00MzJiLWI0MmUtZGM3YmMxMWNjYTM1XkEyXkFqcGdeQXVyMDAyMTY3Nw@@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0138956",
+      "isExist": false,
+      "id": 25
+    },
+    {
+      "title": "Fact or Faked: Paranormal Files",
+      "description": "2010–2012 / series",
+      "imdbID": "tt1690621",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTY2NjUwMDk4NV5BMl5BanBnXkFtZTcwODkzNzMwNw@@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt1690621",
+      "isExist": false,
+      "id": 26
+    },
+    {
+      "title": "Alien Autopsy: (Fact or Fiction?)",
+      "description": "1995 / movie",
+      "imdbID": "tt0163521",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDA4NjE4ODEzN15BMl5BanBnXkFtZTcwMjI2OTQ1MQ@@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0163521",
+      "isExist": false,
+      "id": 27
+    },
+    {
+      "title": "Love, Rosie",
+      "description": "2014 / movie",
+      "imdbID": "tt1638002",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTk0Mzg1MTU1MF5BMl5BanBnXkFtZTgwMjU3ODI2MzE@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt1638002",
+      "isExist": false,
+      "id": 28
+    },
+    {
+      "title": "Angelina",
+      "description": "1947 / movie",
+      "imdbID": "tt0039682",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODg1YTZlMGUtNmUwZS00NmI5LWIwNmMtOThhYWE4MzY4OTVmXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0039682",
+      "isExist": false,
+      "id": 29
+    },
+    {
+      "title": "Angelina Ballerina",
+      "description": "2001–2009 / series",
+      "imdbID": "tt0319935",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTM2MDE1MTg0OF5BMl5BanBnXkFtZTcwNjIyMzAzMQ@@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0319935",
+      "isExist": false,
+      "id": 30
+    },
+    {
+      "title": "Funny Games",
+      "description": "2007 / movie",
+      "imdbID": "tt0808279",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTg4OTExNTYzMV5BMl5BanBnXkFtZTcwOTg1MDU1MQ@@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0808279",
+      "isExist": false,
+      "id": 31
+    },
+    {
+      "title": "Funny Games",
+      "description": "1997 / movie",
+      "imdbID": "tt0119167",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNTAzZDYtNWUzYi00ODVjLTliZjYtNjc2YzJmODZhNTg3XkEyXkFqcGdeQXVyNjUxMDQ0MTg@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0119167",
+      "isExist": false,
+      "id": 32
+    },
+    {
+      "title": "Funny Face",
+      "description": "1957 / movie",
+      "imdbID": "tt0050419",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGY0YzA2OWQtOGMwZi00MzI2LWE4MzgtY2QzOTk1ODBhYjA3XkEyXkFqcGdeQXVyMjIyNjE2NA@@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0050419",
+      "isExist": false,
+      "id": 33
+    },
+    {
+      "title": "Planet Hulk",
+      "description": "2010 / movie",
+      "imdbID": "tt1483025",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmFlNTNhNjktNDQ4NC00ZmVhLTg2NmYtOWExMmI0MzQ1ODFmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt1483025",
+      "isExist": false,
+      "id": 34
+    },
+    {
+      "title": "The Incredible Hulk Returns",
+      "description": "1988 / movie",
+      "imdbID": "tt0095368",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGY2YmEwMjQtNWIzOS00OWFiLWIxMTctZGU4ZWE2ZGU3ZmQ5XkEyXkFqcGdeQXVyODM0NzI5MDM@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0095368",
+      "isExist": false,
+      "id": 35
+    },
+    {
+      "title": "Home",
+      "description": "2015 / movie",
+      "imdbID": "tt2224026",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjExOTQ4MDMyMV5BMl5BanBnXkFtZTgwMTE3NDM2MzE@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt2224026",
+      "isExist": false,
+      "id": 37
+    },
+    {
+      "title": "Man of Steel",
+      "description": "2013 / movie",
+      "imdbID": "tt0770828",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0770828",
+      "isExist": false,
+      "id": 38
+    },
+    {
+      "title": "Iron Man 2",
+      "description": "2010 / movie",
+      "imdbID": "tt1228705",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt1228705",
+      "isExist": false,
+      "id": 39
+    },
+    {
+      "title": "Ant-Man",
+      "description": "2015 / movie",
+      "imdbID": "tt0478970",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0478970",
+      "isExist": false,
+      "id": 40
+    },
+    {
+      "title": "Spider-Man 2",
+      "description": "2004 / movie",
+      "imdbID": "tt0316654",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0316654",
+      "isExist": false,
+      "id": 41
+    },
+    {
+      "title": "Casper: A Spirited Beginning",
+      "description": "1997 / movie",
+      "imdbID": "tt0118824",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTc1MjUwOTU3NF5BMl5BanBnXkFtZTcwOTE4MDMzMQ@@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0118824",
+      "isExist": false,
+      "id": 42
+    },
+    {
+      "title": "The Spooktacular New Adventures of Casper",
+      "description": "1996–1998 / series",
+      "imdbID": "tt0115128",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjE2MDY4MDk4OV5BMl5BanBnXkFtZTcwMTUxNjYyMQ@@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0115128",
+      "isExist": false,
+      "id": 43
+    },
+    {
+      "title": "Casper & Mandrilaftalen",
+      "description": "1999– / series",
+      "imdbID": "tt0270762",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJnb43MuKReMIG9fvcHJrOAupaJjzKCcEdyw&usqp=CAU",
+      "imdbLink": "https://www.imdb.com/title/tt0270762",
+      "isExist": false,
+      "id": 44
+    },
+    {
+      "title": "Casper & Frank - Nu som mennesker",
+      "description": "2012 / movie",
+      "imdbID": "tt2536606",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWRmNTU2YzMtOTY5MC00ZGU2LWI1MDQtZjBhY2ZlZDBhZjZmXkEyXkFqcGdeQXVyNDQyOTMzODg@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt2536606",
+      "isExist": false,
+      "id": 45
+    },
+    {
+      "title": "Casper and Emma - Best Friends",
+      "description": "2013 / movie",
+      "imdbID": "tt2581664",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNTM2ODk3Nl5BMl5BanBnXkFtZTcwNTI3NjE5OA@@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt2581664",
+      "isExist": false,
+      "id": 46
+    },
+    {
+      "title": "Casper and Friends",
+      "description": "1990–1994 / series",
+      "imdbID": "tt1822383",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA1MDg0MjExN15BMl5BanBnXkFtZTgwMzA3Mzc4NzE@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt1822383",
+      "isExist": false,
+      "id": 47
+    },
+    {
+      "title": "Home Alone 2: Lost in New York",
+      "description": "1992 / movie",
+      "imdbID": "tt0104431",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDI1MzM0Y2YtYmIyMS00ODE3LTlhZjEtZTUyNmEzMTNhZWU5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0104431",
+      "isExist": false,
+      "id": 48
+    },
+    {
+      "title": "Miss Peregrine's Home for Peculiar Children",
+      "description": "2016 / movie",
+      "imdbID": "tt1935859",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTU0Nzc5NzI5NV5BMl5BanBnXkFtZTgwNTk1MDE4MDI@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt1935859",
+      "isExist": false,
+      "id": 49
+    },
+    {
+      "title": "Star Trek IV: The Voyage Home",
+      "description": "1986 / movie",
+      "imdbID": "tt0092007",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWM4MWEwNWYtZjNhYS00ZWVhLWE2ZjAtMDAyMGRkMDk2NDBlXkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_SX300.jpg",
+      "imdbLink": "https://www.imdb.com/title/tt0092007",
+      "isExist": false,
+      "id": 50
+    }
+  ]
+}
